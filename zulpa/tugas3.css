@@ -1,0 +1,16 @@
+.header {
+  background: transparent url("gedung.jpg") no-repeat center center;
+  height: 200px;
+}
+
+.hilight {
+    position: relative;
+  display: flex;
+  justify-content: center;
+}
+
+.card {
+    position: absolute;
+    top: -5vh;
+    margin-right: 3vh;
+}

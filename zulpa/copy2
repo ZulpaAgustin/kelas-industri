@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UFT-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Tugas satu</title>
+  </head>
+  <body>
+    <table width="100%">
+      <tr style="height:60px;">
+        <b><td width="60%" font="arial" size="10vh"><font size="10">Zulpa Agustin</font></td></b>
+        <td width="10%"><a href="helloword.html"><font size="5">Latihan 1</font></a></td>
+        <td width="10%"><a href="study.html"><font size="5">Latihan 2</font></a></td>
+        <td width="10%"><a href="table6.html"><font size="5">Latihan Tabel</font></a></td>
+        <td width="10%"><a href="rowspanandcolspanhml.html"><font size="5">Latihan Colspan</font></a></td>
+      </tr>
+          <tr style="height: 70px;">
+        <td colspan="5">
+      <hr/>
+      </table>
+      
+      <table width="100%">
+      <tr><td style="color:rgba(255, 234, 234, 0.897) ;height:80vh; background:url('bgrnd.jpg')no-repeat center center; text-align: center; ">
+        <h1><font size="9">WELCOME TO MY WEBSITE</font></h1> <br>
+        <h3><font size="5">Ini adalah website pembelajaran saya</font></h3>
+      </td>
+     </tr>
+    </table>
+          <p><center><font size="6">Saya sedang belajar membuat website,menggunakan Visual Studio Code</font></p></center>
+      </tr>
+      <table width="100%">
+        <tr><td style="color:rgba(255, 234, 234, 0.897) ;height:80vh; background:url('snst.jpg')no-repeat center center; text-align: center; ">
+          <h1><font size="9">WELCOME TO MY WEBSITE</font></h1> <br>
+          <h3><font size="5">Ini adalah website pembelajaran saya</font></h3>
+        </td>
+       </tr>
+    <table border="2" align="center" width="100%">
+        <td rowspan="4" width="10%"></td>
+        <td width="40%">
+          <img src="pid.png" width="50" height="50">
+          <b><font size="5">Latihan 1</font></b>
+          <p><font size="4">Saya belajar tentang aplikasi web browser apa saja yang bisa digunakan</font></p>
+        </td>
+        <td width="40%">
+          <img src="ajr.png" width="50" height="50">
+          <b><font size="5">Latihan 2</font></b>
+          <p><font size="4">Saya belajar tentang HTML dan pengertiannya</font></p>
+        </td>
+        <td rowspan="4" width="10%"></td>
+        <tr>
+          <td>
+            <img src="stdy.png" width="50" height="50">
+            <b><font size="5">Latihan tabel</font></b>
+            <p><font size="4">Saya mencoba membuat tabel baris1,2 dan 3</font></p>
+          </td>
+          <td>
+            <img src="bld.png" width="50" height="50">
+            <b><font size="5">Latihan colspan</font></b>
+            <p><font size="4">Saya belajar cara menggunakan colspan dan membuat tabel nilai</font></p>
+          </td>
+        </tr>
+      </table>
+      
+      <table width="100%">
+        <tr>
+          <td colspan="5"><h1><font color="blue" size="7px"><center>BIODATA</center></font></h1></td>
+        </tr>
+        <tr>
+          <td width="48%"align="right">
+            <img src="muka.jpg" width="30%" height="20%" />
+          </td>
+          <td width="4%"></td>
+          <td width="48%">
+            <h2><font size="20">Halo Semuanya!!</font></h2>
+            <p><font size="15">Nama: Zulpa Agustin <br>
+              Kelas: 10 PPLG 4 <br>
+              Umur: 15 Tahun <br>
+              Hobi: Bermain, Membaca Manhwa </font> <br>
+            </p>
+          </td>
+        </tr>
+      </table>
+  </body>
+</html>
